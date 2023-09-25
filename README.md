@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gandhi Satria</h1>
-<h3 align="center">Love Cats</h3>
+<h3 align="center">Reach Me</h3>
 <p align="center">
 <p align="center">
   <a href="https:/gndhstr.veercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
