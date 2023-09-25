@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="200"/>
+  <img src="https://media.tenor.com/5MLsXqKX6jgAAAAi/cat-kitty.gif" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gandhi Satria</h1>
